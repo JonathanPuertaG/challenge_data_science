@@ -34,4 +34,4 @@ Tras un análisis integral, se recomienda **vender la Tienda 1**. A pesar de ten
 
 ## 👤 Autor
 
-Jonathan Puertav Gallego
+Jonathan Puerta Gallego
